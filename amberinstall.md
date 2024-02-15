@@ -12,7 +12,7 @@ sudo make install
 
 ```
 
-#### Once you have cmake, you go to the Amber page and download both tar files. When you have them downloaded, I suggest to create a new folder at home called software for example and move there the tar files. Then:
+#### Once you have cmake, you go to the Amber page and download both tar files. When you have them downloaded, I suggest to create a new folder at home called software for example and move there the tar files. Then on that directory:
 
 ```
 
